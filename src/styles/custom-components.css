@@ -1,0 +1,19 @@
+.custom-cta-button {
+  border-radius: 6px;
+  border: 1px solid var(--karnameh-base, #27ae60);
+  padding: 8px;
+  color: #27ae60;
+}
+
+.solid-button {
+  background-color: #27ae60;
+  border-radius: 6px;
+  padding: 8px 21px;
+  color: white;
+}
+
+.button-title {
+  font-size: 12px;
+  font-weight: 700;
+  margin-inline-end: 4px;
+}
