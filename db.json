@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "subject": "مشکل در Auth در React",
+      "title":
+        "سلام من میخوام یه authentication ساده تو react بسازم اما این error رو بهم میده. نمیدونم مشکل از کجاست. عکس خروجی console رو هم گذاشتم که ببینید دقیقا چه مشکلی وجود داره",
+      "answersCount": 2,
+      "creationDate": "2023-07-27T17:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "subject": "مشکل در Auth در React",
+      "title":
+        "سلام من میخوام یه authentication ساده تو react بسازم اما این error رو بهم میده. نمیدونم مشکل از کجاست. عکس خروجی console رو هم گذاشتم که ببینید دقیقا چه مشکلی وجود داره",
+      "answersCount": 2,
+      "creationDate": "2023-07-27T17:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "subject": "مشکل در Auth در React",
+      "title":
+        "سلام من میخوام یه authentication ساده تو react بسازم اما این error رو بهم میده. نمیدونم مشکل از کجاست. عکس خروجی console رو هم گذاشتم که ببینید دقیقا چه مشکلی وجود داره",
+      "answersCount": 2,
+      "creationDate": "2023-07-27T17:30:00.000Z"
+    }
+  ],
+  "answers": [
+    {
+      "questionId": 1,
+      "answersList": [
+        {
+          "answerId": 1,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        },
+        {
+          "answerId": 2,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        },
+        {
+          "answerId": 3,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "questionId": 2,
+      "answersList": [
+        {
+          "answerId": 1,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        },
+        {
+          "answerId": 2,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        },
+        {
+          "answerId": 3,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "questionId": 3,
+      "answersList": [
+        {
+          "answerId": 1,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        },
+        {
+          "answerId": 2,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        },
+        {
+          "answerId": 3,
+          "body": "متغیر ENV رو توی فایلت تغییر بده درست میشه",
+          "creatorName": "Sara Rahimi",
+          "likesCount": "5",
+          "dislikesCount": "2",
+          "date": "2023-07-27T17:30:00.000Z"
+        }
+      ]
+    }
+  ],
+
+  "userInfo": {
+    "id": 1,
+    "fullName": "الناز شاکردوست",
+    "avatar":
+      "https://cdn-icons-png.flaticon.com/512/219/219966.png?w=1380&t=st=1690574418~exp=1690575018~hmac=b94e553947cfc529fb9ffd21a48114e6e79a524e91cd9478a0aff1eeeb439c01"
+  }
+}
