@@ -6,10 +6,8 @@ export interface Question {
   title: string;
   answersCount: number;
   creationDate: string;
-}
-
-interface QuestionsList {
-  questionsList: Array<Question>;
+  creationTime: string;
+  creatorAvatar: string;
 }
 
 const initialState: Question = {
@@ -18,6 +16,8 @@ const initialState: Question = {
   title: "",
   answersCount: 0,
   creationDate: "",
+  creationTime: "",
+  creatorAvatar: "",
 };
 
 const questionSlice = createSlice({
